@@ -1,4 +1,9 @@
 # Practical 2
+JD (02/21/2017):
+In this practical, Professor de Freitas introduces Linear Regression via a Torch demo at https://github.com/torch/demos/tree/master/linear-regression. I've implemented this demo using Tensorflow in Practical2.ipynb to better understand TF's mechanics.
+
+
+NDF:
 Machine Learning, spring 2015
 
 ## Setup
