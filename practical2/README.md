@@ -1,6 +1,7 @@
 # Practical 2
 JD (02/21/2017):
 In this practical, Professor de Freitas introduces Linear Regression via a Torch demo at https://github.com/torch/demos/tree/master/linear-regression. I've implemented this demo using Tensorflow in Practical2.ipynb to better understand TF's mechanics.
+Software Requirements: Python 3.5.2; iPython 4.2.0; Tensorflow 1.0.0; Pandas 0.18.1; Numpy 1.12.1; Matplotlib 1.5.1; 
 
 
 NDF:
